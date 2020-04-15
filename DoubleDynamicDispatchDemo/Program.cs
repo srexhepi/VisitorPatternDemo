@@ -15,8 +15,6 @@ namespace DoubleDynamicDispatchDemo {
 
     public abstract class Animal {
         public abstract void makesound();
-        public abstract void makesound(Cat cat);
-        public abstract void makesound(Dog dog);
     }
 
     public class Cat : Animal {
@@ -29,4 +27,5 @@ namespace DoubleDynamicDispatchDemo {
         public override void makesound() {
             Console.WriteLine("Wuuf");
         }
+    }
 }
