@@ -1,0 +1,13 @@
+C:\Users\Shaban\source\repos\DoubleDynamicDispatchDemo\DoubleDynamicDispatchDemo\bin\Debug\netcoreapp3.1\DoubleDynamicDispatchDemo.exe
+C:\Users\Shaban\source\repos\DoubleDynamicDispatchDemo\DoubleDynamicDispatchDemo\bin\Debug\netcoreapp3.1\DoubleDynamicDispatchDemo.deps.json
+C:\Users\Shaban\source\repos\DoubleDynamicDispatchDemo\DoubleDynamicDispatchDemo\bin\Debug\netcoreapp3.1\DoubleDynamicDispatchDemo.runtimeconfig.json
+C:\Users\Shaban\source\repos\DoubleDynamicDispatchDemo\DoubleDynamicDispatchDemo\bin\Debug\netcoreapp3.1\DoubleDynamicDispatchDemo.runtimeconfig.dev.json
+C:\Users\Shaban\source\repos\DoubleDynamicDispatchDemo\DoubleDynamicDispatchDemo\bin\Debug\netcoreapp3.1\DoubleDynamicDispatchDemo.dll
+C:\Users\Shaban\source\repos\DoubleDynamicDispatchDemo\DoubleDynamicDispatchDemo\bin\Debug\netcoreapp3.1\DoubleDynamicDispatchDemo.pdb
+C:\Users\Shaban\source\repos\DoubleDynamicDispatchDemo\DoubleDynamicDispatchDemo\obj\Debug\netcoreapp3.1\DoubleDynamicDispatchDemo.csprojAssemblyReference.cache
+C:\Users\Shaban\source\repos\DoubleDynamicDispatchDemo\DoubleDynamicDispatchDemo\obj\Debug\netcoreapp3.1\DoubleDynamicDispatchDemo.csproj.CoreCompileInputs.cache
+C:\Users\Shaban\source\repos\DoubleDynamicDispatchDemo\DoubleDynamicDispatchDemo\obj\Debug\netcoreapp3.1\DoubleDynamicDispatchDemo.AssemblyInfoInputs.cache
+C:\Users\Shaban\source\repos\DoubleDynamicDispatchDemo\DoubleDynamicDispatchDemo\obj\Debug\netcoreapp3.1\DoubleDynamicDispatchDemo.AssemblyInfo.cs
+C:\Users\Shaban\source\repos\DoubleDynamicDispatchDemo\DoubleDynamicDispatchDemo\obj\Debug\netcoreapp3.1\DoubleDynamicDispatchDemo.dll
+C:\Users\Shaban\source\repos\DoubleDynamicDispatchDemo\DoubleDynamicDispatchDemo\obj\Debug\netcoreapp3.1\DoubleDynamicDispatchDemo.pdb
+C:\Users\Shaban\source\repos\DoubleDynamicDispatchDemo\DoubleDynamicDispatchDemo\obj\Debug\netcoreapp3.1\DoubleDynamicDispatchDemo.genruntimeconfig.cache
